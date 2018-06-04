@@ -1,4 +1,5 @@
-"# Machine-Learning-Tweet-Predicting" 
+# Machine-Learning-Tweet-Predicting
+## Made in collaboration with Federico Ortiz and Eugene Wang, of Indiana University
 
 1. To run this code you need to have access to internet so that it can pull data from the Twitter API
 2. When prompted to do so, the program will ask the user to input a Twitter username
